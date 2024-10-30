@@ -1,0 +1,15 @@
+{
+  "name": "lpp_custom_logo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "wp-scripts start --output-path=../../src/blocks/lpp_custom_logo/build/",
+    "build": "wp-scripts build --output-path=../../src/blocks/lpp_custom_logo/build/"
+  },
+  "author": "Diana van de Laarschot",
+  "license": "GPL-2.0-or-later",
+  "dependencies": {
+    "@wordpress/scripts": "^27.1.0"
+  }
+}

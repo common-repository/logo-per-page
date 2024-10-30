@@ -1,0 +1,6 @@
+{
+	"apiVersion": 3,
+	"title": "LPP Not Available Extension",
+	"name": "lpp/page",
+	"editorScript": "file:./index.js"
+}

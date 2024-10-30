@@ -1,0 +1,6 @@
+{
+  "apiVersion": 3,
+  "title": "LPP Custom Logo Extension",
+  "name": "lpp/page",
+  "editorScript": "file:./index.js"
+}
